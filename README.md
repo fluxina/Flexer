@@ -1,24 +1,18 @@
-# Fluxina Windows ( 🟢 )
+# Flexer Windows ( 🟢 )
 
-Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in Beta ) 📦
+- Welcome to the best save executor wit 100 % unc and lv 8 use free now !
 
 ## How to use ❓
 
-You need to download this file
-
-```bash
-  Fluzy X Windows ( Setup )
-```
-
-[Wait to Update](https://discord.gg/gjEWm4UEM5)
+- [Download](https://discord.gg/getflexer)
 
 ## ⭐️ Features
 
-- Inject all roblox script
-- Auto save ( Inject auto )
-- Bypass byfron
-- Update every roblox Update fast
+- 100 % unc
+- Level 8
+- Multi Instance
+- Fast Injection
 
 ## Contract developer
 
-- [Discord](https://discord.gg/gjEWm4UEM5)
+- [Discord](https://discord.gg/getflexer)
